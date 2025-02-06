@@ -2,3 +2,7 @@ int a= 2;
 int b= 4;
 int sum = a+b;
 Console.WriteLine("The sum of a & b is" + sum);
+int a= 2;
+int b= 4;
+int sub= a-b;
+Console.WriteLine("The substract of a & b is" + sub);
